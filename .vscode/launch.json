@@ -1,0 +1,14 @@
+#include <iostream>
+using namespace std;
+int main()
+[
+    int a,b;
+    cout<<"introduceti primul numar:";
+    cin>>a;
+    cout<<"introduceti al doilea numar:";
+    cin>>b;
+    cout<<"suma numerolor este:"<< a+b<<endl;
+    cout<<"diferenta numerelor este:"<<a-b<<wndl;
+    cout<<"produsul numerelor este:"<<a*b<<endl;
+    return 0;
+]
